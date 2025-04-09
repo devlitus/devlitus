@@ -21,10 +21,10 @@ const devlitus = {
 };
 ```
 
-- 🔭 Actualmente trabajando en **[nombre del proyecto]**
-- 🚀 Explorando el mundo de **[tecnología de interés]**
+- 🔭 Actualmente trabajando en **Chat boot**
+- 🚀 Explorando el mundo de **todas**
 - 💡 Siempre buscando colaborar en **proyectos innovadores**
-- 📫 Contáctame: **[tu-email@ejemplo.com]**
+- 📫 Contáctame: **developercarles@gmail.com**
 - ⚡ Dato curioso: **[dato interesante sobre ti]**
 
 ## 🛠️ Mi stack tecnológico
